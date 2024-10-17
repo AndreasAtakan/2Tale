@@ -1,5 +1,7 @@
 # 2Tale
-App
+
+This repository contains the source-code for a hobby project to create an AI-driven mobile app that creates fictional stories based on a series of images.
+The stories are saved on the device as mp4's with text-to-speech AI voice-over as audio and the image series with smooth transitions as video.
 
 
 ### TODO
